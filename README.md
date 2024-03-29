@@ -10,5 +10,7 @@ the data set which contains SALES DATA,PRODUCT DATA,LOCATION DATA and
 PEOPLE DATA, we gain a deeper understanding of the company's
 performance.
 </P>The dashboard is broken into four(4) individual components
-(Overall Businesss Summary,Geographical Performance
+(Overall Businesss Summary,Geographical Performance,team and people performance,Product Performance. 
+
+### Tech Stack Used
 
