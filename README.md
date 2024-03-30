@@ -38,7 +38,7 @@ In the initial steps, I performed the following tasks:
  ## Data Analysis
  Created a Data Analysis calculation sheet to summarize all the pivot table Data for a new user,developer or client to ease their work and gather information. On this sheet, ten pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between the  Product category,people,country(maps),team in respect to their month on month sales,sum of amount,sum of boxes, total shipment,total cost,total profit etc..  
 
-Below is a snippet of the Data Analysis Sheet
+Below is a snippet of the Data Analysis calculation Sheet
 ![Screenshot of calculation(chocolate)](https://github.com/Shevnon/Awesome_Chocolates_Data_Analysis/assets/161952555/bcc1947c-8e53-4f28-acfd-9c3ad31488f3)
 
 ## Data Visualization
