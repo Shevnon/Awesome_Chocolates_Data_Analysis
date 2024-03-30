@@ -47,7 +47,7 @@ Finally, the dashboard was created by inserting and customizing the different ty
 Below is a snippet of the final dashboard in Excel.
 ![awecome chocolate excel dashboard](https://github.com/Shevnon/Awesome_Chocolates_Data_Analysis/assets/161952555/eb3df250-25d7-455d-88d1-88aa68dabca3)
 
-## Key insigts
+## Key insights
 📈 Total Sales Analysis: The dashboard reveals  a total sales of $21.70m was made.
 
 🎫 Total boxes Analysis:The total boxes sold is 1,334.6k
