@@ -25,7 +25,7 @@ performance.
 - Pivot Tables and Pivot Chart.
 - Data Visulisation and Dashboard creation.
 
-## Data SOURCE
+## Data Source
 Awesome chocolate data: The Primary data set used for the Analysis was gotten from https://chandoo.org/wp/awesome-excel-dashboard
 
 ## Data Cleaning and transformation
