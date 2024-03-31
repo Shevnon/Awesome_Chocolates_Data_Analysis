@@ -64,7 +64,12 @@ Below is a snippet of the final dashboard in Excel.
 
 📊 Profit by Country:The U.S.A made the highest profit by country.
 
-💵👩‍👩‍👧 Sales by Team: Yummies made the highest sales by team
+💵👩‍👩‍👧 Sales by Team: Yummies made the highest sales by team.
+
+## END
+This Awesome Chocolate Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to know which country and team made good sales and also how maximize  both sales and profit. It serves as a valuable tool for policymakers,investors and manufacturers alike.
+
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/chinonso-ekezie-63b58b22a/
 
 
 
