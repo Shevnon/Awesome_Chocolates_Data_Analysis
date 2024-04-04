@@ -42,7 +42,7 @@ Below is a snippet of the Data Analysis calculation Sheet
 ![Screenshot of calculation(chocolate)](https://github.com/Shevnon/Awesome_Chocolates_Data_Analysis/assets/161952555/bcc1947c-8e53-4f28-acfd-9c3ad31488f3)
 
 ## Data Visualization
-Finally, the dashboard was created by inserting and customizing the different types of charts which includes column sparkline chart,bubble chart,Gauge Chart,country maps, all of corresponding pivot table. For user friendly and interactive experience, slicers,sortby options and connections were also added to necessary icons to make them Dynamic.
+Finally, the dashboard was created by inserting and customizing the different types of charts which includes column sparkline chart,bubble graph,Gauge Chart,country maps, all of corresponding pivot table. For user friendly and interactive experience, slicers,sortby options and connections were also added to necessary icons to make them Dynamic.
 
 Below is a snippet of the final dashboard in Excel.
 ![awecome chocolate excel dashboard](https://github.com/Shevnon/Awesome_Chocolates_Data_Analysis/assets/161952555/eb3df250-25d7-455d-88d1-88aa68dabca3)
